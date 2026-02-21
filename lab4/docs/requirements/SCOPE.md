@@ -4,7 +4,7 @@
 
 A continuación se relaciona el diagrama de contexto del sistema **Bankify**:
 
-![Diagrama de contexto - Bankify](lab4/docs/uml/context-diagram.png)
+![Diagrama de contexto - Bankify](lab4/docs/uml/Diagrama De Contexto.png)
 
 
 ---
