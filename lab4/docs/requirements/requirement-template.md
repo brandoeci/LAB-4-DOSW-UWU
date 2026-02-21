@@ -36,7 +36,7 @@ El sistema de Bankify debe tener:
 | **Precondiciones** | *El cliente debe estar previamente registrado y activo en el sistema.* |
 | **Actor** | *Cliente Bankify* |
 | **Flujo principal** | 1. El actor ingresa usuario y contraseña. …<br> 2. El sistema valida las credenciales.…<br>3. El sistema permite el acceso al menú principal.… |
-| **Diagrama de caso de uso** |![Primer caso de uso - Bankify](lab4/docs/uml/primerCasoUso.png)|
+| **Diagrama de caso de uso** |![Primer caso de uso - Bankify](https://github.com/brandoeci/LAB-4-DOSW-UWU/blob/develop/lab4/docs/uml/primerCasoUso.png)|
 | **Poscondiciones** | *El cliente visualiza correctamente el saldo actualizado. …* |
 
 
@@ -50,7 +50,7 @@ El sistema de Bankify debe tener:
 | **Precondiciones** | * El cliente debe estar autenticado en el sistema. …* |
 | **Actor** | * Cliente Bankify * |
 | **Flujo principal** | 1. El actor selecciona la opción consultar saldo. …<br>2.El sistema solicita la información al sistema principal.…<br>3. El sistema muestra el saldo actual de la cuenta.… |
-| **Diagrama de caso de uso** |![Segundo caso de uso - Bankify](lab4/docs/uml/segundoCasoUso.png)|
+| **Diagrama de caso de uso** |![Segundo caso de uso - Bankify](https://github.com/brandoeci/LAB-4-DOSW-UWU/blob/develop/lab4/docs/uml/segundoCasoUso.png)|
 | **Poscondiciones** | *El cliente visualiza correctamente el saldo actualizado.* |
 
 ### 2.3 Requerimiento Funcional 3
@@ -63,7 +63,7 @@ El sistema de Bankify debe tener:
 | **Precondiciones** | *El cliente debe estar autenticado y la cuenta debe estar activa. …* |
 | **Actor** | *Cliente Bankify* |
 | **Flujo principal** | 1. El actor selecciona la opción realizar depósito. …<br>2. El actor ingresa el monto. …<br>3. El sistema valida el monto. …<br>4. El sistema actualiza el saldo. …<br>5. El sistema confirma la transacción. |
-| **Diagrama de caso de uso** |![Tercer caso de uso - Bankify](lab4/docs/uml/tercerCasoUso.png)|
+| **Diagrama de caso de uso** |![Tercer caso de uso - Bankify](https://github.com/brandoeci/LAB-4-DOSW-UWU/blob/develop/lab4/docs/uml/tercerCasoUso.png)|
 | **Poscondiciones** | *El saldo de la cuenta queda actualizado y la transacción registrada. …* |
 
 ## 3. Preguntas
