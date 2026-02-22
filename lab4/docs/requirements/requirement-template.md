@@ -78,5 +78,9 @@ Estos permiten tener una version minima funcional y segura del sistema.
 d. ¿Existe algún requerimiento que no debería realizarse?
 No. Todos los requerimientos definidos están alineados con el alcance del sistema.
 
+2.3 Requerimiento Funcional 3
+...
+Poscondiciones: El saldo de la cuenta queda actualizado y la transacción registrada.
+Mockup: [Ver mockup en Figma] https://www.figma.com/design/3xwlObHXrc1uBPME523t8I/Sin-t%C3%ADtulo?node-id=0-1&t=pvTUEE850eFrHLeB-1
 
 
